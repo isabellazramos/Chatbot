@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/robot.gif" alt="Chatbot" />
+  <img src="./.github/robot.gif" alt="Chatbot" width="300" height="300"/>
 
   &#xa0;
 
