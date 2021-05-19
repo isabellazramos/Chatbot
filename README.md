@@ -63,7 +63,7 @@ $ git clone https://github.com/isabellazramos/chatbot
 
 # Entre na pasta
 $ cd chatbot
-
+```
 
 Feito com :heart: por <a href="https://github.com/isabellazramos" target="_blank">Isabella M. Ramos</a>
 
